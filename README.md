@@ -1,5 +1,5 @@
 # HandRFID
-Portable RFID tag reader/writer for filaments / Lettore/Scrittore di TAG RFID per filamenti
+Portable RFID tag reader-writer for filaments / Lettore-Scrittore di TAG RFID per filamenti
 
 ## 📘 Description / Descrizione
 
@@ -11,6 +11,17 @@ A small, portable device that allows you to quickly write RFID tags to label you
 * Manufacturer database / Database costruttori
 * Web-configurable / Configurabile via WEB
 * Easy to implement / Facile da realizzare
+
+Video tutorial (Italian): https://youtu.be/M0HzzsOZAlI 
+
+<img width="610" height="934" alt="Screenshot 2026-05-03 alle 01 08 40" src="https://github.com/user-attachments/assets/6b4b986e-fab1-41d5-b2ce-b1da12665bcf" />
+<img width="503" height="774" alt="Screenshot 2026-05-03 alle 01 08 11" src="https://github.com/user-attachments/assets/5970c9ea-54a8-4168-91b4-ea26965ec252" />
+<img width="515" height="773" alt="Screenshot 2026-05-03 alle 01 07 57" src="https://github.com/user-attachments/assets/19df9f7c-7c02-4b3e-9b6d-049baccc0064" />
+<img width="511" height="779" alt="Screenshot 2026-05-03 alle 01 07 41" src="https://github.com/user-attachments/assets/03d19648-46f8-42da-8fbb-2019ffbaa641" />
+<img width="506" height="768" alt="Screenshot 2026-05-03 alle 01 07 27" src="https://github.com/user-attachments/assets/5e7b8bbc-fef6-432e-93a8-2e1cf7a00d11" />
+<img width="483" height="750" alt="Screenshot 2026-05-03 alle 01 05 34" src="https://github.com/user-attachments/assets/695535cd-c36e-45ad-8c11-36ad2aac264f" />
+<img width="502" height="776" alt="Screenshot 2026-05-03 alle 01 05 09" src="https://github.com/user-attachments/assets/71803c21-28a1-4964-8662-945716b02dc8" />
+<img width="561" height="816" alt="Screenshot 2026-05-03 alle 01 04 54" src="https://github.com/user-attachments/assets/18a5f8db-607c-4d45-96d7-cf4be7f7bf54" />
 
 
 ## 👨‍💻 Programming / Programmazione
@@ -37,6 +48,7 @@ A small, portable device that allows you to quickly write RFID tags to label you
 
 V1.0
 * First Version / Prima versione
+
 
 V1.1 - 21/02/2025
 * Fixed some colour identification and minor bugs / Sistemati alcune rilevazioni colore e bug minori
