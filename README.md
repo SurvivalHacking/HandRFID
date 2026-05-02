@@ -1,3 +1,4 @@
+
 # HandRFID
 Portable RFID tag reader-writer for filaments / Lettore-Scrittore di TAG RFID per filamenti
 
@@ -22,7 +23,8 @@ Video tutorial (Italian): https://youtu.be/M0HzzsOZAlI
 <img width="483" height="750" alt="Screenshot 2026-05-03 alle 01 05 34" src="https://github.com/user-attachments/assets/695535cd-c36e-45ad-8c11-36ad2aac264f" />
 <img width="502" height="776" alt="Screenshot 2026-05-03 alle 01 05 09" src="https://github.com/user-attachments/assets/71803c21-28a1-4964-8662-945716b02dc8" />
 <img width="561" height="816" alt="Screenshot 2026-05-03 alle 01 04 54" src="https://github.com/user-attachments/assets/18a5f8db-607c-4d45-96d7-cf4be7f7bf54" />
-
+<img width="754" height="1406" alt="Screenshot 2026-05-03 alle 01 14 26" src="https://github.com/user-attachments/assets/5a5c2d79-6e6d-4c4b-9830-6d5a8aaa66e7" />
+<img width="743" height="1382" alt="Screenshot 2026-05-03 alle 01 13 25" src="https://github.com/user-attachments/assets/691119b6-c82e-4c07-83f3-be8c58777c19" />
 
 ## 👨‍💻 Programming / Programmazione
 
