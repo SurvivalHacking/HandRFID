@@ -1,0 +1,5 @@
+PN532: https://s.click.aliexpress.com/e/_c30J9g7Z
+ESP32-2432S024R: https://s.click.aliexpress.com/e/_c3bvlCXF
+Mifare Classic 1K: https://s.click.aliexpress.com/e/_c3QRUTPz
+NTAG 213: https://s.click.aliexpress.com/e/_c3fpyESh
+Batteria 803040 1000mA: https://s.click.aliexpress.com/e/_c4LtLOBT
