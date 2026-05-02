@@ -63,11 +63,11 @@ This project is licensed under
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
 You may freely share and modify it, **citing the author**
-(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) and **for non-commercial purposes**.
+(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) and Paolo Sambinello  **for non-commercial purposes**.
 
 
 Questo progetto è distribuito con licenza
 **Creative Commons – Attribuzione – Non Commerciale 4.0 Internazionale (CC BY-NC 4.0)**.
 
 Puoi condividerlo e modificarlo liberamente, **citando l’autore**
-(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e **senza scopi commerciali**.
+(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e Paolo Sambinello  **senza scopi commerciali**.
