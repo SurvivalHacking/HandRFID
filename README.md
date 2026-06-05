@@ -60,7 +60,7 @@ V1.2 / V1.2C - 05/06/2026
 * Added French Language / Aggiunta lingua francese
 
 V1.2C - 05/06/2026 
-* Special versione for CYD ESP32-024 Clone
+* Special version for CYD ESP32-024 Clone / Versione speciale per CYD ESP32-024 Clone
 
 ---
 ## 🧾 License / Licenza
