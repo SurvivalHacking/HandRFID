@@ -28,7 +28,7 @@ Video tutorial (Italian): https://youtu.be/M0HzzsOZAlI
 
 ## 👨‍💻 Programming / Programmazione
 
-* WEB Programming (only for chrome) / Programmatore WEB (Solo per chrome): https://youtu.be/M0HzzsOZAlI 
+* WEB Programming (only for chrome) / Programmatore WEB (Solo per chrome): [https://youtu.be/M0HzzsOZAlI ](https://davidegatti.altervista.org/installaEsp32.php?progetto=HandRFID)
 
 ---
 ## 🎛️ Practical Assembly Guide / Schema pratico di assemblaggio
