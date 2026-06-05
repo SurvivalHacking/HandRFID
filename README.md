@@ -33,7 +33,8 @@ Video tutorial (Italian): https://youtu.be/M0HzzsOZAlI
 ---
 ## 🎛️ Practical Assembly Guide / Schema pratico di assemblaggio
 
-<img width="2183" height="1522" alt="Schematic" src="https://github.com/user-attachments/assets/1d806d73-2023-411c-9432-33905406b170" />
+<img width="1131" height="796" alt="Schematic" src="https://github.com/user-attachments/assets/7ab90b8c-63af-4457-80ea-e133b063afc0" />
+
 
 ---
 ## 🎛️ BOM / Elenco materiali
@@ -55,6 +56,11 @@ V1.0
 V1.1 - 21/02/2025
 * Fixed some colour identification and minor bugs / Sistemati alcune rilevazioni colore e bug minori
 
+V1.2 / V1.2C - 05/06/2026
+* Added French Language / Aggiunta lingua francese
+
+V1.2C - 05/06/2026 
+* Special versione for CYD ESP32-024 Clone
 
 ---
 ## 🧾 License / Licenza
